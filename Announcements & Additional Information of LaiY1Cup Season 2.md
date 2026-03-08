@@ -51,3 +51,7 @@
 
 ## Prize Pool: 145 USD
 -   Champions: 145 USD
+
+
+## Cancellation Policy
+-   If your team has someone is given a ban such as "作弊封禁" or “违规行为封禁” from 5E platform, your team will be not allowed to attend the tournament.
