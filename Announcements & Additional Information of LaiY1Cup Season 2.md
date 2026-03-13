@@ -55,3 +55,7 @@
 
 ## Cancellation Policy
 -   If your team has someone is given a ban such as "作弊封禁" or “违规行为封禁” from 5E platform, your team will be not allowed to attend the tournament.
+
+## tournament rules
+-   All players need obey our tournament rules, if you attend the tournament, that means you have read the newest rules and promised to obey the rules.
+-   To watch the rules, visit our website: http://laiyicup.lanhengawa.top/index.php/s2rules/
