@@ -59,3 +59,6 @@
 ## tournament rules
 -   All players need obey our tournament rules, if you attend the tournament, that means you have read the newest rules and promised to obey the rules.
 -   To watch the rules, visit our website: http://laiyicup.lanhengawa.top/index.php/s2rules/
+
+## VRS Ranking
+-   the VRS date for seeding is March 2nd, 2026.(official)
